@@ -1,5 +1,5 @@
 function imprimir(content) {
-    console.log(content);
+    console.log("HOla "+content);
 }
 
-imprimir("Hola Crack")
+imprimir("Mexz")
